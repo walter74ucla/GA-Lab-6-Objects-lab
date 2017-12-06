@@ -1,4 +1,4 @@
-# Welcome to Objects-lab
+# Welcome to: Objects-lab
 
 ---
 Title: Morning Lab<br>
