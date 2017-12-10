@@ -11,7 +11,7 @@ Topics: JavaScript objects
 
 # Setup
 
-Make a file, `morning_lab.js` in the directory you're using for your labs, and write your answers in this file.
+Make a file, `morning_lab.js` and write your answers in this file.
 
 ## Syntax
 
