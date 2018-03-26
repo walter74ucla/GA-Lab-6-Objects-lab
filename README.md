@@ -72,10 +72,10 @@ const monster = {
 
 Let's say you want to make an adventure game where you are an adventurer and you are going to fight **ogres**.
 
-Using **objects**, create **models** and have them interact.
+Create **objects** to have them interact.
 
-* how would you model your `adventurer`? Your adventurer will want a **name** and **hitpoints**. What else would your adventurer need?
-* how would you model an `ogre`? Your ogre will want **hitpoints**.
+* how would you define your `adventurer`? Your adventurer will want a **name** and **hitpoints**. What else would your adventurer need?
+* how would you define an `ogre`? Your ogre will want **hitpoints**.
 
 * Write a very small program that will simulate a battle between your adventurer and an ogre. 
 	* Whoever has more hitpoints, wins the battle.
@@ -157,7 +157,7 @@ Result:
 
 ## 4. Cat brain bender
 
-If `catCombinator` returns an **object**, and if `catCombinator` takes **objects** as **arguments**, then it stands to reason that:
+If `combineCats` returns an **object**, and if `combineCats` takes **objects** as **arguments**, then it stands to reason that:
 
 `catCombinator` can use **itself** as its own argument.
 
