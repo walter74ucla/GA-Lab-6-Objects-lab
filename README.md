@@ -77,11 +77,10 @@ Using **objects**, create **models** and have them interact.
 * how would you model your `adventurer`? Your adventurer will want a **name** and **hitpoints**. What else would your adventurer need?
 * how would you model an `ogre`? Your ogre will want **hitpoints**.
 
-* Write a very small program that will simulate a battle between your adventurer and an ogre. You can use the same techniques you used in your **landscaping** game from the weekend.
-	* When your adventurer's hitpoints reach 0 the game is over.
-	* When your ogre's hitpoints reach 0 the game is over.
+* Write a very small program that will simulate a battle between your adventurer and an ogre. 
+	* Whoever has more hitpoints, wins the battle.
+	* You can do a console.log to show how many hitpoints each opponent has, and who ultimately wins.
 
-* If you want to provide input to the game, you can run it in the Chrome console (but that isn't strictly necessary for now).
 
 <br>
 <hr>
