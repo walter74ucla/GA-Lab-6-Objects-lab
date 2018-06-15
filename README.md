@@ -7,12 +7,6 @@ Topics: JavaScript objects
 
 ---
 
-# Morning Lab
-
-# Setup
-
-Make a file, `morning_lab.js` and write your answers in this file.
-
 ## Syntax
 
 List and describe each individual piece of syntax that we use to construct an object. Don't leave anything out! The list is finite.
