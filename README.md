@@ -95,7 +95,6 @@ Doing this efficiently requires planning.  If you just started coding immediatel
 
 <br>
 <hr>
-<hr>
 
 # Extra Practice
 
