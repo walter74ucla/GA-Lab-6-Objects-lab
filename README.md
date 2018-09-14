@@ -3,7 +3,7 @@
 # Objects-lab
 
 Title: Objects Lab<br>
-Class: wdi-cc
+Class: wdi-cc <br>
 Contributors: GA Instructional Team<br>
 Topics: JavaScript objects
 
